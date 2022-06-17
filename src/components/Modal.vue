@@ -33,7 +33,6 @@
                 </div>
                 <button type="button" @click="add()">{{ button }}</button>
             </form>
-            {{ valid }}
         </div>
 
     </div>
